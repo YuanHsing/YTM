@@ -194,6 +194,33 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/c/TheKPOP2/live)
         EOL
+    - name: Get CafeMusicBGMchannel.m3u8
+      run: |
+        touch ./CafeMusicBGMchannel.m3u8
+        sudo cat >./CafeMusicBGMchannel.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/c/cafemusicbgmchannel/live)
+        EOL
+    - name: Get GreenMusicBGMchannel.m3u8
+      run: |
+        touch ./GreenMusicBGMchannel.m3u8
+        sudo cat >./GreenMusicBGMchannel.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/c/japanrelaxingmusic/live)
+        EOL
+    - name: Get HawaiianMusicBGMchannel.m3u8
+      run: |
+        touch ./HawaiianMusicBGMchannel.m3u8
+        sudo cat >./HawaiianMusicBGMchannel.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/c/HawaiianBGMchannel/live)
+        EOL
     - name: Get NatureRelax4K.m3u8
       run: |
         touch ./NatureRelax4K.m3u8
