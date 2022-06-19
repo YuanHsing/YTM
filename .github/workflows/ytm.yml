@@ -50,6 +50,24 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/channel/UCjNea6tkE7f0WHR50iNPf5A/live)
         EOL
+    - name: Get MashaandtheBear.m3u8
+      run: |
+        touch ./MashaandtheBear.m3u8
+        sudo cat >./MashaandtheBear.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCCqX_4VAN8RE_Jz8vlIGEUw/live)
+        EOL
+    - name: Get MashaandtheBear2.m3u8
+      run: |
+        touch ./MashaandtheBear2.m3u8
+        sudo cat >./MashaandtheBear2.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/c/MashaBearCH/live)
+        EOL
     - name: Get Wolfoosstories.m3u8
       run: |
         touch ./Wolfoosstories.m3u8
