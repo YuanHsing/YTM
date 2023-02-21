@@ -4,7 +4,9 @@ Lion Family,https://ytm2.yuanhsing.cf/LionFamily.m3u8
 Lion Family English,https://ytm2.yuanhsing.cf/LionFamily2.m3u8
 Masha and the Bear,https://ytm2.yuanhsing.cf/MashaandtheBear.m3u8
 Masha and the Bear2,https://ytm2.yuanhsing.cf/MashaandtheBear2.m3u8
+WB Kids,https://ytm2.yuanhsing.cf/wbkids.m3u8
 Wolfoo's stories,https://ytm2.yuanhsing.cf/Wolfoosstories.m3u8
+MR HAMSTER,https://ytm2.yuanhsing.cf/HamsterEscape.m3u8
 Pea Pea Korea,https://ytm2.yuanhsing.cf/PeaPeaKorea.m3u8
 Oddbods & FRIENDS,https://ytm2.yuanhsing.cf/OddbodsFRIENDS.m3u8
 CANDY CRUSH,https://ytm2.yuanhsing.cf/CANDYCRUSH.m3u8
@@ -22,25 +24,39 @@ ARIRANG K-POP,https://ytm2.yuanhsing.cf/arirangworld.m3u8
 ALL THE K-POP,https://ytm2.yuanhsing.cf/ALLTHEKPOP.m3u8
 The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 The K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+Soul Groove Music,https://ytm2.yuanhsing.cf/soulgroovemusic3715.m3u8
+Healing Comma,https://ytm2.yuanhsing.cf/HealingComma.m3u8
 Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
 Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
 Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u8
+Nemo's Dreamscapes,https://ytm2.yuanhsing.cf/NemosDreamscapes.m3u8
 
 🐳Live,#genre#
 NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
-RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
+Space Videos,https://ytm2.yuanhsing.cf/SpaceVideosHD.m3u8
 RailWay,https://ytm2.yuanhsing.cf/RailWay.m3u8
 RailCowGirl,https://ytm2.yuanhsing.cf/RailCowGirl.m3u8
+Virtual Railfan,https://ytm2.yuanhsing.cf/VirtualRailfan.m3u8
+JAPAN 4K,https://ytm2.yuanhsing.cf/JAPAN_4K.m3u8
+Aurora Borealis,https://ytm2.yuanhsing.cf/AuroraBorealisLive.m3u8
+Kitten Academy,https://ytm2.yuanhsing.cf/KittenAcademy.m3u8
+Explore Bears & Bison,https://ytm2.yuanhsing.cf/explorebears.m3u8
+Kansas City Zoo,https://ytm2.yuanhsing.cf/kansascityzoo.m3u8
+FOBBV CAM,https://ytm2.yuanhsing.cf/FOBBVCAM.m3u8
+4K Live Alishan,https://ytm2.yuanhsing.cf/Alishannsa.m3u8
+eqm,https://ytm2.yuanhsing.cf/eqm.m3u8
 
 🎨TV Dramas,#genre#
-Justice Pao,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+CTS DRAMA,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 GTV DRAMA,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
-Formosa TV Dramas,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+FTV DRAMA,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 
 ⛱️TV Variety,#genre#
 CTS SHOW,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+CtiEntertainment,https://ytm2.yuanhsing.cf/CtiEntertainment.m3u8
 Faintv VARIETY1,https://ytm2.yuanhsing.cf/AsiaDigitalMedia.m3u8
 Faintv VARIETY2,https://ytm2.yuanhsing.cf/Faintv.m3u8
+Mr.Player,https://ytm2.yuanhsing.cf/Mr.Player.m3u8
 
 🎡Taiwan News,#genre#
 CTITV News,https://ytm2.yuanhsing.cf/ctitv.m3u8
@@ -55,5 +71,6 @@ Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
 SETN Live News,https://ytm2.yuanhsing.cf/SETN.m3u8
 SET+ Live News,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 SET iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
-Formosa Live News,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
-Formosa TV News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
+FTVN Live,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
+FTVN News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
+CNN-News18,https://ytm2.yuanhsing.cf/CNN-News18.m3u8
