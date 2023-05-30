@@ -39,7 +39,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@VexTrex/live)
+        $(yt-dlp --print urls https://www.youtube.com/@VexTrexKidsCartoon/live)
         EOL
     - name: Get LionFamily2.m3u8
       run: |
@@ -67,15 +67,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@MashaBearTAIWAN/live)
-        EOL
-    - name: Get wbkids.m3u8
-      run: |
-        touch ./wbkids.m3u8
-        sudo cat >./wbkids.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@wbkids/live)
         EOL
     - name: Get Wolfoosstories.m3u8
       run: |
@@ -229,15 +220,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@thekpop2/live)
-        EOL
-    - name: Get soulgroovemusic3715.m3u8
-      run: |
-        touch ./soulgroovemusic3715.m3u8
-        sudo cat >./soulgroovemusic3715.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@soulgroovemusic3715/live)
         EOL
     - name: Get HealingComma.m3u8
       run: |
