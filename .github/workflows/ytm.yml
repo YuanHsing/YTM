@@ -155,7 +155,7 @@ jobs:
         sudo cat >./BabySharkOfficial.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000,AVERAGE-BANDWIDTH=7560423
         $(yt-dlp --print urls https://www.youtube.com/@BabyShark/live)
         EOL
     - name: Get TalkingTomHeroes.m3u8
