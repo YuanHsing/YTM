@@ -75,7 +75,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@WolfoosStories/live)
+        $(yt-dlp --print urls https://www.youtube.com/@KatFamilyChannel/live)
         EOL
     - name: Get HamsterEscape.m3u8
       run: |
