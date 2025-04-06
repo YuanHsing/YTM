@@ -599,6 +599,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@cnnnews18/live)
         EOL
+ - name: Get MOV.m3u8
+      run: |
+        touch ./MOV.m3u8
+        sudo cat >./MOV.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=w4Ra40N-_VY)
+        EOL
 
     - name: git add
       run: |
